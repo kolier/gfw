@@ -1,9 +1,9 @@
 #BEGIN
 
 [Wildcard]
-; Search engine
+@ Search engine
 *://*.baidu.co.jp/*
-; Google
+@ Google
 *://*.google.com/*
 *://*.googleusercontent.com/*
 *://*.ggpht.com/*
@@ -11,7 +11,7 @@
 *://*.gstatic.com/*
 *://*.youtube.com/*
 *://*.youtube-nocookie.com/*
-; SNS
+@ SNS
 *://*.facebook.com/*
 *://*.twitter.com/*
 
