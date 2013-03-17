@@ -1,0 +1,14 @@
+#BEGIN
+
+[Wildcard]
+; Google
+*://*.google.com/*
+*://*.googleusercontent.com/*
+*://*.ggpht.com/*
+*://*.gmail.com/*
+*://*.gstatic.com/*
+; Search engine
+*://*.baidu.co.jp/*
+
+
+#END
