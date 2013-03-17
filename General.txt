@@ -8,6 +8,7 @@
 *://*.baidu.co.jp/*
 *://*.facebook.com/*
 *://*.google.com/*
+*://*.googleapis.com/*
 *://*.googleusercontent.com/*
 *://*.ggpht.com/*
 *://*.gmail.com/*
