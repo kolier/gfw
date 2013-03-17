@@ -15,6 +15,7 @@
 *://*.twitter.com/*
 *://*.youtube.com/*
 *://*.youtube-nocookie.com/*
+*://*.ytimg.com/*
 
 
 [regexp]
