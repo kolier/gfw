@@ -13,6 +13,7 @@
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
+*://*.porntube.com/*
 *://*.twitter.com/*
 *://*.youtube.com/*
 *://*.youtube-nocookie.com/*
