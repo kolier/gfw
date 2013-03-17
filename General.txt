@@ -1,14 +1,20 @@
 #BEGIN
 
 [Wildcard]
+; Search engine
+*://*.baidu.co.jp/*
 ; Google
 *://*.google.com/*
 *://*.googleusercontent.com/*
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
-; Search engine
-*://*.baidu.co.jp/*
+*://*.youtube.com/*
+*://*.youtube-nocookie.com/*
+; SNS
+*://*.facebook.com/*
+*://*.twitter.com/*
+
 
 
 #END
