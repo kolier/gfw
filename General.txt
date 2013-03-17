@@ -5,19 +5,16 @@
 #BEGIN
 
 [Wildcard]
-@ Search engine
 *://*.baidu.co.jp/*
-@ Google
+*://*.facebook.com/*
 *://*.google.com/*
 *://*.googleusercontent.com/*
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
+*://*.twitter.com/*
 *://*.youtube.com/*
 *://*.youtube-nocookie.com/*
-@ SNS
-*://*.facebook.com/*
-*://*.twitter.com/*
 
 
 [regexp]
