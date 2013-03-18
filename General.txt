@@ -6,6 +6,7 @@
 
 [Wildcard]
 *://*.baidu.co.jp/*
+*://*.bit.ly/*
 *://*.facebook.com/*
 *://*.google.com/*
 *://*.googleapis.com/*
