@@ -9,6 +9,8 @@
 *://*.bit.ly/*
 *blogspot.com*
 *blogspot.jp*
+*://*.dmm.co.jp/*
+*://*.dmm.com/*
 *://*.facebook.com/*
 *feedburner.com*
 *://*.google.com/*
@@ -17,6 +19,7 @@
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
+*://*.japorn.tv/*
 *://*.porntube.com/*
 *://*.sex141.com/*
 *://*.twitter.com/*
