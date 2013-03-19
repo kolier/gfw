@@ -22,6 +22,7 @@
 *://*.japorn.tv/*
 *://*.porntube.com/*
 *://*.sex141.com/*
+*://*.sex8.cc/*
 *://*.twitter.com/*
 *://*.vimeo.com/*
 *.wordpress.com*
