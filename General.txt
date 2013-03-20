@@ -23,6 +23,7 @@
 *://*.porntube.com/*
 *://*.sex141.com/*
 *://*.sex8.cc/*
+*://*.t.co/*
 *://*.twitter.com/*
 *://*.vimeo.com/*
 *.wordpress.com*
