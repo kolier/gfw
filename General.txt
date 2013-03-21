@@ -5,6 +5,7 @@
 #BEGIN
 
 [Wildcard]
+*://*.asg.to/*
 *://*.baidu.co.jp/*
 *://*.bit.ly/*
 *blogspot.com*
