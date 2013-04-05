@@ -13,6 +13,7 @@
 *://*.dmm.co.jp/*
 *://*.dmm.com/*
 *://*.facebook.com/*
+*://*.fbcdn.net/*
 *feedburner.com*
 *://*.google.com/*
 *://*.googleapis.com/*
