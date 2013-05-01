@@ -21,6 +21,7 @@
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
+*://*.imgur.com/*
 *://*.japorn.tv/*
 *jjgirls.com*
 *://*.porntube.com/*
