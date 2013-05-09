@@ -33,6 +33,7 @@
 *://*.twitter.com/*
 *://*.vimeo.com/*
 *.wordpress.com*
+*://*.xvideos.com/*
 *://*.youporn.com/*
 *://*.youtu.be/*
 *://*.youtube.com/*
