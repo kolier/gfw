@@ -8,6 +8,7 @@
 *appspot.com*
 *://*.asg.to/*
 *://*.baidu.co.jp/*
+*://*.baidu.jp/*
 *://*.bit.ly/*
 *blogspot.com*
 *blogspot.jp*
