@@ -26,6 +26,7 @@
 *://*.imgur.com/*
 *://*.japorn.tv/*
 *jjgirls.com*
+*://*.on.cc/*
 *://*.porntube.com/*
 *://*.s3.feedly.com/*
 *://*.sis001.com/*
