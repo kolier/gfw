@@ -23,6 +23,7 @@
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
+*://*.hkgolden.com/*
 *://*.imgur.com/*
 *://*.japorn.tv/*
 *jjgirls.com*
