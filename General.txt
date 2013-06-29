@@ -11,6 +11,7 @@
 *://*.baidu.jp/*
 *://*.bit.ly/*
 *blogspot.com*
+*blogspot.in*
 *blogspot.jp*
 *://*.dmm.co.jp/*
 *://*.dmm.com/*
