@@ -24,6 +24,7 @@
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
+*://*.gyazo.com/*
 *://*.hkgolden.com/*
 *://*.imgur.com/*
 *://*.japorn.tv/*
