@@ -38,6 +38,7 @@
 *://*.twitter.com/*
 *://*.vimeo.com/*
 *.wordpress.com*
+*://*.warriorforum.com/*
 *://*.xvideos.com/*
 *://*.youporn.com/*
 *://*.youtu.be/*
