@@ -26,6 +26,7 @@
 *://*.gstatic.com/*
 *://*.gyazo.com/*
 *://*.hkgolden.com/*
+*://*.imagebam.com/*
 *://*.imgur.com/*
 *://*.japorn.tv/*
 *jjgirls.com*
