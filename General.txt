@@ -36,6 +36,7 @@
 *://*.sis001.com/*
 *://*.sex141.com/*
 *://*.sex8.cc/*
+*://*.slideshare.net/*
 *://*.t.co/*
 *://*.twitter.com/*
 *://*.vimeo.com/*
