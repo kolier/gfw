@@ -39,6 +39,7 @@
 *://*.slideshare.net/*
 *://*.t.co/*
 *://*.twitter.com/*
+*://*.uploaded.net/*
 *://*.vimeo.com/*
 *.wordpress.com*
 *://*.warriorforum.com/*
