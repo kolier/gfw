@@ -21,6 +21,7 @@
 *://*.google.com/*
 *://*.googleapis.com/*
 *://*.googleusercontent.com/*
+*://*.googlevideo.com/*
 *://*.ggpht.com/*
 *://*.gmail.com/*
 *://*.gstatic.com/*
