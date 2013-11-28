@@ -17,6 +17,7 @@
 *://*.dmm.com/*
 *://*.facebook.com/*
 *://*.fbcdn.net/*
+*://p.feedblitz.com/*
 *feedburner.com*
 *://*.google.com/*
 *://*.googleapis.com/*
