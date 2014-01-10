@@ -5,27 +5,37 @@
 #BEGIN
 
 [Wildcard]
+
+; Google
+
 *appspot.com*
+*://*.plus.google.com/*
+*://*.docs.google.com/*
+; *://*.google.com/*
+*://*.googleapis.com/*
+; *://*.googleusercontent.com/*
+*://*.googlevideo.com/*
+*://*.ggpht.com/*
+*://*.gmail.com/*
+*://*.gstatic.com/*
+*://*.youtu.be/*
+*://*.youtube.com/*
+*://*.youtube-nocookie.com/*
+*blogspot.com*
+*blogspot.in*
+*blogspot.jp*
+
 *://*.asg.to/*
 *://*.baidu.co.jp/*
 *://*.baidu.jp/*
 *://*.bit.ly/*
-*blogspot.com*
-*blogspot.in*
-*blogspot.jp*
+
 *://*.dmm.co.jp/*
 *://*.dmm.com/*
 *://*.facebook.com/*
 *://*.fbcdn.net/*
 *://p.feedblitz.com/*
 *feedburner.com*
-*://*.google.com/*
-*://*.googleapis.com/*
-*://*.googleusercontent.com/*
-*://*.googlevideo.com/*
-*://*.ggpht.com/*
-*://*.gmail.com/*
-*://*.gstatic.com/*
 *://*.gyazo.com/*
 *://*.hkgolden.com/*
 *://*.imagebam.com/*
@@ -47,9 +57,6 @@
 *://*.warriorforum.com/*
 *://*.xvideos.com/*
 *://*.youporn.com/*
-*://*.youtu.be/*
-*://*.youtube.com/*
-*://*.youtube-nocookie.com/*
 *://*.ytimg.com/*
 
 
