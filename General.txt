@@ -11,6 +11,7 @@
 *appspot.com*
 *://*.plus.google.com/*
 *://*.docs.google.com/*
+*://*.drive.google.com/*
 ; *://*.google.com/*
 *://*.googleapis.com/*
 ; *://*.googleusercontent.com/*
