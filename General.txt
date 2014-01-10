@@ -9,11 +9,12 @@
 ; Google
 
 *appspot.com*
-*://*.docs.google.com/*
-*://*.drive.google.com/*
-*://*.plus.google.com/*
-*://*.productforums.google.com/*
-*://*.profiles.google.com/*
+*://docs.google.com/*
+*://drive.google.com/*
+*://plus.google.com/*
+*://productforums.google.com/*
+*://profiles.google.com/*
+*://clients*.google.com/*
 
 ; *://*.google.com/*
 *://*.googleapis.com/*
