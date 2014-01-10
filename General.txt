@@ -15,6 +15,14 @@
 *://productforums.google.com/*
 *://profiles.google.com/*
 *://clients*.google.com/*
+*://apis.google.com/*
+
+https://mail.google.com/mail/u/0/%3C%=%20imageSrc%20%%3E
+https://mail.google.com/mail/u/0/%3C%=%20imgUrl%20%%3E
+https://mail.google.com/mail/u/0/%3C%=%20imgURL%20%%3E
+https://mail.google.com/mail/u/0/%3C%=%20userImageUrl%20%%3E
+https://mail.google.com/mail/u/0/%3C%=%20src%20%%3E
+https://mail.google.com/mail/c/u/0/data/contactstore*
 
 ; *://*.google.com/*
 *://*.googleapis.com/*
