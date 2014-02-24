@@ -6,6 +6,7 @@
 
 [Wildcard]
 
+; ============================================================
 ; Google
 
 *appspot.com*
@@ -20,6 +21,7 @@ https://mail.google.com/mail/c/u/0/data/contactstore*
 https://mail.google.com/mail/u/0/<*>
 https://mail.google.com/mail/u/0/#contact/*
 https://www.google.com/bookmarks/
+https://www.google.com/searchbyimage/*
 
 ; *://*.google.com/*
 *://*.googleapis.com/*
@@ -35,13 +37,15 @@ https://www.google.com/bookmarks/
 *blogspot.in*
 *blogspot.jp*
 
+; ============================================================
+; General
+
 *://*.asg.to/*
 *://*.baidu.co.jp/*
 *://*.baidu.jp/*
 *://*.bit.ly/*
 
-*://*.dmm.co.jp/*
-*://*.dmm.com/*
+
 *://*.facebook.com/*
 *://*.fbcdn.net/*
 *://p.feedblitz.com/*
@@ -50,14 +54,12 @@ https://www.google.com/bookmarks/
 *://*.hkgolden.com/*
 *://*.imagebam.com/*
 *://*.imgur.com/*
-*://*.japorn.tv/*
-*jjgirls.com*
+
+
 *://*.on.cc/*
-*://*.porntube.com/*
+
 *://*.s3.feedly.com/*
-*://*.sis001.com/*
-*://*.sex141.com/*
-*://*.sex8.cc/*
+
 *://*.slideshare.net/*
 *://*.t.co/*
 *://*.twitter.com/*
@@ -65,9 +67,25 @@ https://www.google.com/bookmarks/
 *://*.vimeo.com/*
 *.wordpress.com*
 *://*.warriorforum.com/*
+*://*.ytimg.com/*
+
+; ============================================================
+; Unknown
+
+; ============================================================
+; 
+
+*://*.dmm.co.jp/*
+*://*.dmm.com/*
+*://*.go141.com/*
+*://*.japorn.tv/*
+*jjgirls.com*
+*://*.porntube.com/*
+*://*.sis001.com/*
+*://*.sex141.com/*
+*://*.sex8.cc/*
 *://*.xvideos.com/*
 *://*.youporn.com/*
-*://*.ytimg.com/*
 
 
 [regexp]
