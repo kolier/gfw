@@ -20,6 +20,7 @@
 https://mail.google.com/mail/c/u/0/data/contactstore*
 https://mail.google.com/mail/u/0/<*>
 https://mail.google.com/mail/u/0/#contact/*
+https://www.google.com/adsense/
 https://www.google.com/bookmarks/
 https://www.google.com/searchbyimage/*
 
@@ -33,9 +34,16 @@ https://www.google.com/searchbyimage/*
 *://*.youtu.be/*
 *://*.youtube.com/*
 *://*.youtube-nocookie.com/*
+*://*.ytimg.com/*
 *blogspot.com*
 *blogspot.in*
 *blogspot.jp*
+
+; ============================================================
+; Twitter
+
+*://*.twitter.com/*
+*://*.twimg.com/*
 
 ; ============================================================
 ; General
@@ -62,18 +70,23 @@ https://www.google.com/searchbyimage/*
 
 *://*.slideshare.net/*
 *://*.t.co/*
-*://*.twitter.com/*
+
 *://*.uploaded.net/*
 *://*.vimeo.com/*
 *.wordpress.com*
 *://*.warriorforum.com/*
-*://*.ytimg.com/*
+
 
 ; ============================================================
 ; Unknown
 
 ; ============================================================
-; 
+; Proxy
+
+*://*.vpngate.net/*
+
+; ============================================================
+; Porn
 
 *://*.dmm.co.jp/*
 *://*.dmm.com/*
