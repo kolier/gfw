@@ -28,6 +28,9 @@
 *://*.gmail.com/*
 *://*.googlevideo.com/*
 *://*.googleusercontent.com/*
+*://*.googlesource.com/*
+*://*.googlelabs.com/*
+*://*.googleadservices.com/*
 *://*.googleapis.com/*
 *://*.ggpht.com/*
 *://*.gstatic.com/*
