@@ -25,6 +25,7 @@
 
 *://*.google.com/*
 *://*.google.com.*/*
+*://*.google.co.*/*
 *://*.gmail.com/*
 *://*.googlevideo.com/*
 *://*.googleusercontent.com/*
