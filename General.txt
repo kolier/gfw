@@ -1,8 +1,8 @@
-; Summary: Proxy Switchy! Exported Rule List
-; Date: 3/18/2013
-; Website: http://bit.ly/proxyswitchy
+; Configuration for Proxy Switchy!
+; Proxy Switchy!: http://bit.ly/proxyswitchy
 
 #BEGIN
+
 
 [Wildcard]
 
@@ -35,6 +35,7 @@
 *://*.googleapis.com/*
 *://*.ggpht.com/*
 *://*.gstatic.com/*
+*://*.google-analytics.com/*
 
 *appspot.com*
 *blogspot.com*
@@ -100,12 +101,12 @@
 
 *://*.dmm.co.jp/*
 *://*.dmm.com/*
-*://*.go141.com/*
 *://*.japorn.tv/*
 *jjgirls.com*
 *://*.porntube.com/*
 *://*.sis001.com/*
 *://*.sex141.com/*
+*://*.go141.com/*
 *://*.sex8.cc/*
 *://*.xvideos.com/*
 *://*.youporn.com/*
