@@ -37,6 +37,13 @@
 *://*.ytimg.com/*
 
 ; ============================================================
+; Facebook
+
+*://*.facebook.com/*
+*://*.facebook.net/*
+*://*.fbcdn.net/*
+
+; ============================================================
 ; Twitter
 
 *://*.twitter.com/*
@@ -51,9 +58,7 @@
 *://*.bit.ly/*
 
 
-*://*.facebook.com/*
-*://*.facebook.net/*
-*://*.fbcdn.net/*
+
 *://p.feedblitz.com/*
 *feedburner.com*
 *://*.gyazo.com/*
@@ -86,8 +91,10 @@
 ; ============================================================
 ; Porn
 
-*://*.dmm.co.jp/*
-*://*.dmm.com/*
+; It's region permission.
+; *://*.dmm.co.jp/*
+; *://*.dmm.com/*
+
 *://*.japorn.tv/*
 *jjgirls.com*
 *://*.porntube.com/*
