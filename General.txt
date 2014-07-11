@@ -22,6 +22,7 @@
 *://*.ggpht.com/*
 *://*.gstatic.com/*
 *://*.google-analytics.com/*
+*://*.chromium.org/*
 *://*.goo.gl/*
 
 *appspot.com*
