@@ -93,14 +93,14 @@
 
 
 ; ============================================================
-; Video Stock
+; Video Sharing
 
 *://*.slideshare.net/*
 *://*.vimeo.com/*
 
 
 ; ============================================================
-; Image Stock
+; Image Sharing
 
 *://*.imagebam.com/*
 *://*.imgur.com/*
@@ -108,8 +108,9 @@
 
 
 ; ============================================================
-; File Stock
+; File Sharing
 
+*://*.mediafire.com/*
 *://*.uploaded.net/*
 
 
