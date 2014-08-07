@@ -76,7 +76,7 @@
 
 *://*.hkgolden.com/*
 *://*.tvboxnow.com/*
-*://*.warriorforum.com/*
+;*://*.warriorforum.com/*
 
 
 ; ============================================================
