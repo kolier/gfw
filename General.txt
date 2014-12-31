@@ -1,8 +1,4 @@
-; Configuration for Proxy Switchy!
-; Proxy Switchy!: http://bit.ly/proxyswitchy
-
 #BEGIN
-
 
 [Wildcard]
 
@@ -21,6 +17,7 @@
 ; -----------------------------------------------------------------------------
 ; Google
 
+*google*
 *://*.google.com/*
 *://*.google.com.*/*
 *://*.google.co.*/*
